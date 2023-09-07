@@ -1,0 +1,29 @@
+[33mcommit 6450dfe61b47606976244c0a72f7bf49b13f8b91[m[33m ([m[1;36mHEAD -> [m[1;32mexemplo-branch[m[33m, [m[1;31mFaican/exemplo-branch[m[33m)[m
+Author: Andre <segantin050@gmail.com>
+Date:   Wed Sep 6 16:38:36 2023 -0300
+
+    adicionando o comando git commit
+
+[33mcommit d4d7cc4b3276d2b94e841311e1861ad4aa299cf2[m[33m ([m[1;31mFaican/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Andre <segantin050@gmail.com>
+Date:   Wed Sep 6 15:49:39 2023 -0300
+
+    adicionando o gitiginore
+
+[33mcommit dac3cd358f1d6e0a83377711145222dd3c148b99[m
+Author: Faican <144263691+Faican@users.noreply.github.com>
+Date:   Wed Sep 6 15:36:25 2023 -0300
+
+    Create README.md
+
+[33mcommit 53c1987a84408c9733f2508dda72b6c142338a1f[m
+Author: Andre <segantin050@gmail.com>
+Date:   Wed Sep 6 14:47:41 2023 -0300
+
+    novo teste
+
+[33mcommit ae26d1ed82e9e7cb47d6ffafbcea2287dc9a37cd[m
+Author: Andre <segantin050@gmail.com>
+Date:   Wed Sep 6 10:34:56 2023 -0300
+
+    Meu primeiro commit
